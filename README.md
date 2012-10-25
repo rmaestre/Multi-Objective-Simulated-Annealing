@@ -1,6 +1,6 @@
 # Introduction
 
-The classic paper could be found here: http://home.gwu.edu/~stroud/classics/KirkpatrickGelattVecchi83.pdf
+The classic paper can be found here: http://home.gwu.edu/~stroud/classics/KirkpatrickGelattVecchi83.pdf
 
 (From wikipedia http://en.wikipedia.org/wiki/Simulated_annealing)
 
@@ -26,6 +26,10 @@ We should locate several people on the board trying to fill the whole space, ful
 
 ![function3](https://raw.github.com/rmaestre/Multi-Objective-Simulated-Annealing/master/img/function3.png)
 
-# Uni-objective approach
+# Uni-objective approach convergence
 
-# Multi-objective approach
+![function1](https://raw.github.com/rmaestre/Multi-Objective-Simulated-Annealing/master/img/convergence_uni.png)
+
+# Multi-objective approach convergence
+
+![function1](https://raw.github.com/rmaestre/Multi-Objective-Simulated-Annealing/master/img/convergence_multi.png)
