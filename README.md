@@ -13,7 +13,7 @@ By analogy with this physical process, each step of the SA algorithm attempts to
 
 ![function1](https://raw.github.com/rmaestre/Multi-Objective-Simulated-Annealing/master/img/districts.png)
 
-We should locate several people on the board trying to fill the whole space, fulfilling the following rules:
+We should place several people on the board trying to cover the whole space, fulfilling the following rules:
 
 * If there is an agent on position #5, positions: #5, #1,#2,#4,#6 and #8 are covered.
 * We should use the minimum number of people
